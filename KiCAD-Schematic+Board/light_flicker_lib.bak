@@ -328,7 +328,7 @@
       )
     )
   )
-  (symbol "AD823A" (pin_names (offset 1)) (exclude_from_sim no) (in_bom yes) (on_board yes)
+  (symbol "AD823A" (pin_names (offset 0.5)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 1.27 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
