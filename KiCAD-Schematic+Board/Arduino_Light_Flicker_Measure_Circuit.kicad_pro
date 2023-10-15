@@ -419,7 +419,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "light_flicker_lib"
+    ]
   },
   "meta": {
     "filename": "Arduino_Light_Flicker_Measure_Circuit.kicad_pro",
