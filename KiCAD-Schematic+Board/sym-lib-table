@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "light_flicker_lib")(type "KiCad")(uri "${KIPRJMOD}/light_flicker_lib.kicad_sym")(options "")(descr ""))
+)
